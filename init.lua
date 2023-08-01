@@ -16,3 +16,4 @@ vim.cmd.colorscheme('tokyonight')
 
 require('plugins.lualine')
 require('plugins.telescope')
+require('plugins.treesitter')
