@@ -1,5 +1,5 @@
 -- show numbers
-vim.opt.number = true
+vim.opt.relativenumber = true
 -- enable mouse use
 vim.opt.mouse = 'a'
 -- ignore case sensitivity in searches
